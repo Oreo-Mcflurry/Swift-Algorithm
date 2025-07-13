@@ -35,9 +35,9 @@ Swift-Algorithm-Study/
 
 ```
 [입문] 문제명 - 해결 방법
-[Level1] 문제명 - 해결 방법
-[Level2] 문제명 - 해결 방법  
-[Level3] 문제명 - 해결 방법
+[Level1] 문제명 
+[Level2] 문제명
+[Level3] 문제명 
 ```
 
 ## 🔗 참고 링크
